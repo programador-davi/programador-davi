@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @programador-davi
 - 👀  estou interessado em programação
-- 🌱 I’m currently learning 
+- 🌱atualmente estou  estudando com o java script
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
